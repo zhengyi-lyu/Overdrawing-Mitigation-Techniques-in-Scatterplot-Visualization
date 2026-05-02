@@ -1,14 +1,14 @@
 # Overdrawing-Mitigation-Techniques-in-Scatterplot-Visualization
 
-This repository hosts an interactive literature browser for papers related to **Overdraw Mitigation in Scatterplot Visualization**. The website is built with **SurVis**, a browser-based visual literature collection system, and is deployed using **GitHub Pages**.
-
-## Online Demo
+This repository hosts an interactive literature browser for papers related to **Overdraw Mitigation in Scatterplot Visualization**. The website is built with **SurVis**, a browser-based visual literature collection system, and is deployed using GitHub Pages.
 
 ## Preview
 
 <p align="center">
   <img src="data/homepage.png" alt="Website preview" width="900">
 </p>
+
+## Online Demo
 Visit the project website here:
 
 https://zhengyi-lyu.github.io/Overdrawing-Mitigation-Techniques-in-Scatterplot-Visualization/
@@ -25,7 +25,6 @@ The collected literature focuses on topics such as:
 - Data-space methods, including sampling and data reduction
 - Visual-space methods, including appearance adjustment, layout adjustment, and animation
 - Hybrid-space methods that combine data abstraction and visual abstraction
-- Evaluation methods for scatterplot visualization
 
 ## Repository Structure
 
