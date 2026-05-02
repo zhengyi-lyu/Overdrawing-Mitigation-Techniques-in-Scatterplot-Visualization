@@ -23,7 +23,7 @@ The goal of this repository is to provide an interactive literature map that sup
 The collected literature focuses on topics such as:
 - Scatterplot overdraw and overplotting mitigation
 - Data-space methods, including random sampling, relative-density preservation sampling, relative class density preservation sampling, outlier preservation sampling, spatial separation sampling.
-- Visual-space methods, including appearance adjustment, layout adjustment, and animation
+- Visual-space methods, including appearance adjustment, layout adjustment, and animation.
 - Hybrid-space methods that combine data abstraction and visual abstraction, including bin aggregation, contour, color weaving, boundary construction.
 
 ## Repository Structure
