@@ -15,16 +15,16 @@ https://zhengyi-lyu.github.io/Overdrawing-Mitigation-Techniques-in-Scatterplot-V
 
 ## Project Purpose
 
-Scatterplots are widely used to visualize multidimensional data, but overdraw and overplotting often occur when a large number of points are projected into a limited visual space. This project collects and organizes representative literature on techniques for mitigating scatterplot overdraw.
+Scatterplots are widely used to visualize data, but overdraw often occur when a large number of points are projected into a limited visual space. This project collects and organizes representative literature on techniques for mitigating scatterplot overdraw.
 
 The goal of this repository is to provide an interactive literature map that supports browsing, filtering, searching, and comparing related studies.
 ## Main Topics
 
 The collected literature focuses on topics such as:
 - Scatterplot overdraw and overplotting mitigation
-- Data-space methods, including sampling and data reduction
+- Data-space methods, including random sampling, relative-density preservation sampling, relative class density preservation sampling, outlier preservation sampling, spatial separation sampling.
 - Visual-space methods, including appearance adjustment, layout adjustment, and animation
-- Hybrid-space methods that combine data abstraction and visual abstraction
+- Hybrid-space methods that combine data abstraction and visual abstraction, including bin aggregation, contour, color weaving, boundary construction.
 
 ## Repository Structure
 
